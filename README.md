@@ -12,9 +12,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abhayy143&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhayy143&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abhayy143&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=abhayy143&icon=1&color=9)](https://visitcount.itsvg.in)
 
