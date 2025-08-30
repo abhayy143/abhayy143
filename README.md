@@ -1,20 +1,33 @@
-# Hey there 👋  
-
-I’m **Abhay Chetri** – currently wrestling with Android Studio (and sometimes winning).  
-I build apps that *mostly* work on the first try (thanks to countless `Gradle build failed` messages).  
-
-- 🚀 Currently working on Android projects with Kotlin
-- 🛠️ Breaking things so I can learn how to fix them  
-- ☕ Runs on coffee & random StackOverflow solutions  
-- 📱 Trying to make apps that people actually enjoy using  
-
-> Fun fact: My debugging strategy is 10% logic, 90% “let’s see what happens if I click Run again.”  
+### Hi there 👋, I am [Abhay Chetri](https://github.com/abhaychetri)! 😁  
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhayy.___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhayy143) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Abhayy16093089) 
+Hello! My name is **Abhay Chetri** and I’m an Android developer currently working with **Android Studio** (and sometimes fighting with Gradle 💥).  
+I enjoy building apps, learning new tools, and breaking things just so I can fix them again.  
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+- 🔭 I’m currently working on Android projects with **Kotlin**  
+- 🌱 Exploring Firebase, Jetpack Compose & AI integrations for Android  
+- 💬 Ask me about app development, web basics, or how to survive Gradle errors  
+- ☕ Powered by coffee + StackOverflow  
+- ⚡ Fun fact: My debugging strategy is 90% “Run app again and hope for the best”  
 
+---
 
+**Languages and Tools:**  
+
+![Kotlin](https://img.shields.io/badge/-Kotlin-black?logo=kotlin&style=social)&nbsp;&nbsp;
+![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
+![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)&nbsp;&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-black?logo=firebase&style=social)&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/-Python-black?logo=python&style=social)&nbsp;&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
+
+---
+
+![Abhay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhayy143&count_private=true&show_icons=true&include_all_commits=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhayy143&hide=TeX&layout=compact)  
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=abhaychetri.abhayy143)
