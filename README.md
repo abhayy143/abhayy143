@@ -3,7 +3,7 @@
 I’m **Abhay Chetri** – currently wrestling with Android Studio (and sometimes winning).  
 I build apps that *mostly* work on the first try (thanks to countless `Gradle build failed` messages).  
 
-- 🚀 Currently working on Android projects with Kotlin & Java  
+- 🚀 Currently working on Android projects with Kotlin
 - 🛠️ Breaking things so I can learn how to fix them  
 - ☕ Runs on coffee & random StackOverflow solutions  
 - 📱 Trying to make apps that people actually enjoy using  
