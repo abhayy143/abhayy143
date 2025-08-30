@@ -1,5 +1,14 @@
-# 💫 About Me:
-🔭 I’m currently working on Web & Android App Development <br>👯 I’m looking to collaborate on AI/ML projects<br>🤝 I’m looking for help with Dart<br>🌱 I’m currently learning Flutter<br>⚡ Fun fact I love dogs alot :P 
+# Hey there 👋  
+
+I’m **Abhay Chetri** – currently wrestling with Android Studio (and sometimes winning).  
+I build apps that *mostly* work on the first try (thanks to countless `Gradle build failed` messages).  
+
+- 🚀 Currently working on Android projects with Kotlin & Java  
+- 🛠️ Breaking things so I can learn how to fix them  
+- ☕ Runs on coffee & random StackOverflow solutions  
+- 📱 Trying to make apps that people actually enjoy using  
+
+> Fun fact: My debugging strategy is 10% logic, 90% “let’s see what happens if I click Run again.”  
 
 
 ## 🌐 Socials:
