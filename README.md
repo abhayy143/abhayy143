@@ -26,8 +26,7 @@ I enjoy building apps, learning new tools, and breaking things just so I can fix
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
 ---
-
-![Abhay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhayy143&count_private=true&show_icons=true&include_all_commits=true)  
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhayy143&hide=TeX&layout=compact)  
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=abhaychetri.abhayy143)
